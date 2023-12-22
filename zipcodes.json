@@ -1,0 +1,55 @@
+{
+    "zipcodes": [
+        {
+            "zip": "22312",
+            "city": "Alexandria",
+            "state": "VA"
+        },
+        {
+            "zip": "22030",
+            "city": "Fairfax",
+            "state": "VA"
+        },
+        {
+            "zip": "22301",
+            "city": "Rockville",
+            "state": "MD"
+        },
+        {
+            "zip": "20148",
+            "city": "Ashburn",
+            "state": "VA"
+        },
+        {
+            "zip": "23218",
+            "city": "Richmond",
+            "state": "VA"
+        },
+        {
+            "zip": "23510",
+            "city": "Norfolk",
+            "state": "VA"
+        },
+        {
+            "zip": "24018",
+            "city": "Roanoke",
+            "state": "VA"
+        },
+        {
+            "zip": "24501",
+            "city": "Lynchburg",
+            "state": "VA"
+        },
+        {
+            "zip": "22102",
+            "city": "McLean",
+            "state": "VA"
+        },
+        {
+            "zip": "22151",
+            "city": "Springfield",
+            "state": "VA"
+        }
+        
+    ]
+}

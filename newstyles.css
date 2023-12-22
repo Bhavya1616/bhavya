@@ -1,0 +1,39 @@
+/* Name: Bhavya Sree Pannem
+Gnum: G01413450 */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://transportation.gmu.edu/wp-content/uploads/211101318-300x200.jpg');
+    background-size: cover;
+}
+
+.description {
+    background: rgba(215, 214, 210, 0.4);
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    display: none; /* Hide by default */
+}
+
+h1 {
+    color: #006633;
+    /* GMU Green for h1 */
+}
+
+/* Add your existing custom styles here */
+
+/* Style for the course list */
+.course-list {
+    display: none; /* Hide by default */
+}
+
+/* Custom styles for the navigation bar */
+.navbar {
+    background-color: #333; /* Medium to dark background */
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: white;
+}
